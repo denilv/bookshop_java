@@ -1,8 +1,0 @@
-INDEX VERSION 1.3+C:\Users\denil\projects\java\prac2016\denisov\Code\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1494548747.index
-3560227920.index
-1808466549.index
-120673643.index
-2266323776.index
-2801900904.index
-3372209659.index

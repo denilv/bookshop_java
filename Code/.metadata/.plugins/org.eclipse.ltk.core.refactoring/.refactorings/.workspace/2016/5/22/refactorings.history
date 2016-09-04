@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;project&apos; to &apos;javaTwitter&apos;" description="Rename resource &apos;project&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/project" name="javaTwitter" stamp="1464021447325" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;javaTwitter&apos;" deleteContents="true" description="Delete resource &apos;javaTwitter&apos;" element1="/javaTwitter" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1464023880133"/>
-</session>

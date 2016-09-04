@@ -1,7 +1,0 @@
-package bookshop.controller;
-
-@Controller
-public class SearchController
-{
-
-}
