@@ -1,0 +1,6 @@
+package bookshop.controller;
+
+public class SearchController
+{
+
+}

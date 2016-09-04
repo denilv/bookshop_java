@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="21" passed="21">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2450" started-at="2016-04-26T13:31:10Z" finished-at="2016-04-26T13:31:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2450" started-at="2016-04-26T13:31:10Z" finished-at="2016-04-26T13:31:13Z">
+      <class name="test.code.AllTests">
+        <test-method status="PASS" signature="test01()[pri:0, instance:test.code.AllTests@c038203]" name="test01" duration-ms="1455" started-at="2016-04-26T16:31:10Z" finished-at="2016-04-26T16:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method status="PASS" signature="test01err()[pri:0, instance:test.code.AllTests@c038203]" name="test01err" duration-ms="3" started-at="2016-04-26T16:31:12Z" finished-at="2016-04-26T16:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01err -->
+        <test-method status="PASS" signature="test02()[pri:0, instance:test.code.AllTests@c038203]" name="test02" duration-ms="96" started-at="2016-04-26T16:31:12Z" finished-at="2016-04-26T16:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+        <test-method status="PASS" signature="test02err()[pri:0, instance:test.code.AllTests@c038203]" name="test02err" duration-ms="3" started-at="2016-04-26T16:31:12Z" finished-at="2016-04-26T16:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02err -->
+        <test-method status="PASS" signature="test03()[pri:0, instance:test.code.AllTests@c038203]" name="test03" duration-ms="70" started-at="2016-04-26T16:31:12Z" finished-at="2016-04-26T16:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03 -->
+        <test-method status="PASS" signature="test03err()[pri:0, instance:test.code.AllTests@c038203]" name="test03err" duration-ms="3" started-at="2016-04-26T16:31:12Z" finished-at="2016-04-26T16:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03err -->
+        <test-method status="PASS" signature="test04()[pri:0, instance:test.code.AllTests@c038203]" name="test04" duration-ms="127" started-at="2016-04-26T16:31:12Z" finished-at="2016-04-26T16:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04 -->
+        <test-method status="PASS" signature="test05()[pri:0, instance:test.code.AllTests@c038203]" name="test05" duration-ms="52" started-at="2016-04-26T16:31:12Z" finished-at="2016-04-26T16:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test05 -->
+        <test-method status="PASS" signature="test05err()[pri:0, instance:test.code.AllTests@c038203]" name="test05err" duration-ms="3" started-at="2016-04-26T16:31:12Z" finished-at="2016-04-26T16:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test05err -->
+        <test-method status="PASS" signature="test06()[pri:0, instance:test.code.AllTests@c038203]" name="test06" duration-ms="24" started-at="2016-04-26T16:31:12Z" finished-at="2016-04-26T16:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test06 -->
+        <test-method status="PASS" signature="test07()[pri:0, instance:test.code.AllTests@c038203]" name="test07" duration-ms="48" started-at="2016-04-26T16:31:12Z" finished-at="2016-04-26T16:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test07 -->
+        <test-method status="PASS" signature="test08()[pri:0, instance:test.code.AllTests@c038203]" name="test08" duration-ms="43" started-at="2016-04-26T16:31:12Z" finished-at="2016-04-26T16:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test08 -->
+        <test-method status="PASS" signature="test09()[pri:0, instance:test.code.AllTests@c038203]" name="test09" duration-ms="37" started-at="2016-04-26T16:31:12Z" finished-at="2016-04-26T16:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test09 -->
+        <test-method status="PASS" signature="test10()[pri:0, instance:test.code.AllTests@c038203]" name="test10" duration-ms="56" started-at="2016-04-26T16:31:12Z" finished-at="2016-04-26T16:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method status="PASS" signature="test11()[pri:0, instance:test.code.AllTests@c038203]" name="test11" duration-ms="18" started-at="2016-04-26T16:31:12Z" finished-at="2016-04-26T16:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method status="PASS" signature="test12()[pri:0, instance:test.code.AllTests@c038203]" name="test12" duration-ms="19" started-at="2016-04-26T16:31:12Z" finished-at="2016-04-26T16:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method status="PASS" signature="test13()[pri:0, instance:test.code.AllTests@c038203]" name="test13" duration-ms="8" started-at="2016-04-26T16:31:12Z" finished-at="2016-04-26T16:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test13 -->
+        <test-method status="PASS" signature="test14()[pri:0, instance:test.code.AllTests@c038203]" name="test14" duration-ms="100" started-at="2016-04-26T16:31:12Z" finished-at="2016-04-26T16:31:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test14 -->
+        <test-method status="PASS" signature="test15()[pri:0, instance:test.code.AllTests@c038203]" name="test15" duration-ms="82" started-at="2016-04-26T16:31:13Z" finished-at="2016-04-26T16:31:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test15 -->
+        <test-method status="PASS" signature="test16()[pri:0, instance:test.code.AllTests@c038203]" name="test16" duration-ms="114" started-at="2016-04-26T16:31:13Z" finished-at="2016-04-26T16:31:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test16 -->
+        <test-method status="PASS" signature="test17()[pri:0, instance:test.code.AllTests@c038203]" name="test17" duration-ms="51" started-at="2016-04-26T16:31:13Z" finished-at="2016-04-26T16:31:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test17 -->
+      </class> <!-- test.code.AllTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
